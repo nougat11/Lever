@@ -27,6 +27,6 @@ if __name__ == "__main__":
     }
     for student in list_of_students:
         hostel[student["room"]]["students"].append(student["name"])
-    hostel = [item[1] for item in hostel.items()]
+    id, hostel = zip(*hostel.items())
     file_writer = format_classes[args.format]
     file_writer.write(hostel)
