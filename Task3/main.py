@@ -1,40 +1,36 @@
 from threading import Thread, Lock
+from dataclasses import dataclass
+from concurrent.futures import ThreadPoolExecutor
 
 
-a = 0
-mtx = Lock()
+@dataclass
+class Counter:
+    value: int
 
 
-def function(arg):
-    global a
-    for _ in range(arg):
-        a += 1
+def function(count, a):
+    for _ in range(count):
+        a.value += 1
 
 
-def mutex_function(arg):
-    global a
-    for _ in range(arg):
+def mutex_function(count, mtx, a):
+    for _ in range(count):
         with mtx:
-            a += 1
+            a.value += 1
 
 
 def main():
-    global a
-    threads = []
-    for _ in range(5):
-        thread = Thread(target=function, args=(1000000,))
-        thread.start()
-        threads.append(thread)
-
-    [t.join() for t in threads]
-    print("----------------------", a)
-    a = 0
-    for _ in range(5):
-        thread = Thread(target=mutex_function, args=(1000000,))
-        thread.start()
-        threads.append(thread)
-    [t.join() for t in threads]
-    print("----------------------", a)
+    mtx = Lock()
+    a = Counter(0)
+    with ThreadPoolExecutor(max_workers=5) as ex:
+        for _ in range(5):
+            ex.submit(function, 1000000, a)
+    print("----------------------", a.value)
+    a = Counter(0)
+    with ThreadPoolExecutor(max_workers=5) as ex:
+        for _ in range(5):
+            ex.submit(mutex_function, 1000000, mtx, a)
+    print("----------------------", a.value)
 
 
 main()
