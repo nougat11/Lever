@@ -1,0 +1,3999 @@
+<?xml version="1.0" ?>
+<root>
+	<room>
+		<name>Room #0</name>
+		<value>9</value>
+	</room>
+	<room>
+		<name>Room #1</name>
+		<value>7</value>
+	</room>
+	<room>
+		<name>Room #2</name>
+		<value>9</value>
+	</room>
+	<room>
+		<name>Room #3</name>
+		<value>5</value>
+	</room>
+	<room>
+		<name>Room #4</name>
+		<value>11</value>
+	</room>
+	<room>
+		<name>Room #5</name>
+		<value>9</value>
+	</room>
+	<room>
+		<name>Room #6</name>
+		<value>4</value>
+	</room>
+	<room>
+		<name>Room #7</name>
+		<value>10</value>
+	</room>
+	<room>
+		<name>Room #8</name>
+		<value>12</value>
+	</room>
+	<room>
+		<name>Room #9</name>
+		<value>7</value>
+	</room>
+	<room>
+		<name>Room #10</name>
+		<value>13</value>
+	</room>
+	<room>
+		<name>Room #11</name>
+		<value>12</value>
+	</room>
+	<room>
+		<name>Room #12</name>
+		<value>16</value>
+	</room>
+	<room>
+		<name>Room #13</name>
+		<value>10</value>
+	</room>
+	<room>
+		<name>Room #14</name>
+		<value>7</value>
+	</room>
+	<room>
+		<name>Room #15</name>
+		<value>9</value>
+	</room>
+	<room>
+		<name>Room #16</name>
+		<value>10</value>
+	</room>
+	<room>
+		<name>Room #17</name>
+		<value>9</value>
+	</room>
+	<room>
+		<name>Room #18</name>
+		<value>10</value>
+	</room>
+	<room>
+		<name>Room #19</name>
+		<value>13</value>
+	</room>
+	<room>
+		<name>Room #20</name>
+		<value>15</value>
+	</room>
+	<room>
+		<name>Room #21</name>
+		<value>15</value>
+	</room>
+	<room>
+		<name>Room #22</name>
+		<value>9</value>
+	</room>
+	<room>
+		<name>Room #23</name>
+		<value>16</value>
+	</room>
+	<room>
+		<name>Room #24</name>
+		<value>14</value>
+	</room>
+	<room>
+		<name>Room #25</name>
+		<value>4</value>
+	</room>
+	<room>
+		<name>Room #26</name>
+		<value>7</value>
+	</room>
+	<room>
+		<name>Room #27</name>
+		<value>6</value>
+	</room>
+	<room>
+		<name>Room #28</name>
+		<value>7</value>
+	</room>
+	<room>
+		<name>Room #29</name>
+		<value>12</value>
+	</room>
+	<room>
+		<name>Room #30</name>
+		<value>9</value>
+	</room>
+	<room>
+		<name>Room #31</name>
+		<value>13</value>
+	</room>
+	<room>
+		<name>Room #32</name>
+		<value>9</value>
+	</room>
+	<room>
+		<name>Room #33</name>
+		<value>9</value>
+	</room>
+	<room>
+		<name>Room #34</name>
+		<value>9</value>
+	</room>
+	<room>
+		<name>Room #35</name>
+		<value>14</value>
+	</room>
+	<room>
+		<name>Room #36</name>
+		<value>10</value>
+	</room>
+	<room>
+		<name>Room #37</name>
+		<value>12</value>
+	</room>
+	<room>
+		<name>Room #38</name>
+		<value>10</value>
+	</room>
+	<room>
+		<name>Room #39</name>
+		<value>12</value>
+	</room>
+	<room>
+		<name>Room #40</name>
+		<value>11</value>
+	</room>
+	<room>
+		<name>Room #41</name>
+		<value>15</value>
+	</room>
+	<room>
+		<name>Room #42</name>
+		<value>8</value>
+	</room>
+	<room>
+		<name>Room #43</name>
+		<value>9</value>
+	</room>
+	<room>
+		<name>Room #44</name>
+		<value>16</value>
+	</room>
+	<room>
+		<name>Room #45</name>
+		<value>10</value>
+	</room>
+	<room>
+		<name>Room #46</name>
+		<value>12</value>
+	</room>
+	<room>
+		<name>Room #47</name>
+		<value>9</value>
+	</room>
+	<room>
+		<name>Room #48</name>
+		<value>12</value>
+	</room>
+	<room>
+		<name>Room #49</name>
+		<value>3</value>
+	</room>
+	<room>
+		<name>Room #50</name>
+		<value>6</value>
+	</room>
+	<room>
+		<name>Room #51</name>
+		<value>15</value>
+	</room>
+	<room>
+		<name>Room #52</name>
+		<value>15</value>
+	</room>
+	<room>
+		<name>Room #53</name>
+		<value>9</value>
+	</room>
+	<room>
+		<name>Room #54</name>
+		<value>6</value>
+	</room>
+	<room>
+		<name>Room #55</name>
+		<value>9</value>
+	</room>
+	<room>
+		<name>Room #56</name>
+		<value>13</value>
+	</room>
+	<room>
+		<name>Room #57</name>
+		<value>9</value>
+	</room>
+	<room>
+		<name>Room #58</name>
+		<value>12</value>
+	</room>
+	<room>
+		<name>Room #59</name>
+		<value>9</value>
+	</room>
+	<room>
+		<name>Room #60</name>
+		<value>9</value>
+	</room>
+	<room>
+		<name>Room #61</name>
+		<value>11</value>
+	</room>
+	<room>
+		<name>Room #62</name>
+		<value>14</value>
+	</room>
+	<room>
+		<name>Room #63</name>
+		<value>9</value>
+	</room>
+	<room>
+		<name>Room #64</name>
+		<value>11</value>
+	</room>
+	<room>
+		<name>Room #65</name>
+		<value>16</value>
+	</room>
+	<room>
+		<name>Room #66</name>
+		<value>6</value>
+	</room>
+	<room>
+		<name>Room #67</name>
+		<value>10</value>
+	</room>
+	<room>
+		<name>Room #68</name>
+		<value>12</value>
+	</room>
+	<room>
+		<name>Room #69</name>
+		<value>12</value>
+	</room>
+	<room>
+		<name>Room #70</name>
+		<value>12</value>
+	</room>
+	<room>
+		<name>Room #71</name>
+		<value>10</value>
+	</room>
+	<room>
+		<name>Room #72</name>
+		<value>8</value>
+	</room>
+	<room>
+		<name>Room #73</name>
+		<value>20</value>
+	</room>
+	<room>
+		<name>Room #74</name>
+		<value>17</value>
+	</room>
+	<room>
+		<name>Room #75</name>
+		<value>7</value>
+	</room>
+	<room>
+		<name>Room #76</name>
+		<value>6</value>
+	</room>
+	<room>
+		<name>Room #77</name>
+		<value>9</value>
+	</room>
+	<room>
+		<name>Room #78</name>
+		<value>8</value>
+	</room>
+	<room>
+		<name>Room #79</name>
+		<value>6</value>
+	</room>
+	<room>
+		<name>Room #80</name>
+		<value>7</value>
+	</room>
+	<room>
+		<name>Room #81</name>
+		<value>12</value>
+	</room>
+	<room>
+		<name>Room #82</name>
+		<value>15</value>
+	</room>
+	<room>
+		<name>Room #83</name>
+		<value>11</value>
+	</room>
+	<room>
+		<name>Room #84</name>
+		<value>11</value>
+	</room>
+	<room>
+		<name>Room #85</name>
+		<value>6</value>
+	</room>
+	<room>
+		<name>Room #86</name>
+		<value>9</value>
+	</room>
+	<room>
+		<name>Room #87</name>
+		<value>13</value>
+	</room>
+	<room>
+		<name>Room #88</name>
+		<value>9</value>
+	</room>
+	<room>
+		<name>Room #89</name>
+		<value>7</value>
+	</room>
+	<room>
+		<name>Room #90</name>
+		<value>11</value>
+	</room>
+	<room>
+		<name>Room #91</name>
+		<value>10</value>
+	</room>
+	<room>
+		<name>Room #92</name>
+		<value>5</value>
+	</room>
+	<room>
+		<name>Room #93</name>
+		<value>12</value>
+	</room>
+	<room>
+		<name>Room #94</name>
+		<value>11</value>
+	</room>
+	<room>
+		<name>Room #95</name>
+		<value>8</value>
+	</room>
+	<room>
+		<name>Room #96</name>
+		<value>9</value>
+	</room>
+	<room>
+		<name>Room #97</name>
+		<value>5</value>
+	</room>
+	<room>
+		<name>Room #98</name>
+		<value>11</value>
+	</room>
+	<room>
+		<name>Room #99</name>
+		<value>8</value>
+	</room>
+	<room>
+		<name>Room #100</name>
+		<value>9</value>
+	</room>
+	<room>
+		<name>Room #101</name>
+		<value>10</value>
+	</room>
+	<room>
+		<name>Room #102</name>
+		<value>5</value>
+	</room>
+	<room>
+		<name>Room #103</name>
+		<value>12</value>
+	</room>
+	<room>
+		<name>Room #104</name>
+		<value>12</value>
+	</room>
+	<room>
+		<name>Room #105</name>
+		<value>5</value>
+	</room>
+	<room>
+		<name>Room #106</name>
+		<value>9</value>
+	</room>
+	<room>
+		<name>Room #107</name>
+		<value>12</value>
+	</room>
+	<room>
+		<name>Room #108</name>
+		<value>10</value>
+	</room>
+	<room>
+		<name>Room #109</name>
+		<value>7</value>
+	</room>
+	<room>
+		<name>Room #110</name>
+		<value>9</value>
+	</room>
+	<room>
+		<name>Room #111</name>
+		<value>10</value>
+	</room>
+	<room>
+		<name>Room #112</name>
+		<value>11</value>
+	</room>
+	<room>
+		<name>Room #113</name>
+		<value>9</value>
+	</room>
+	<room>
+		<name>Room #114</name>
+		<value>11</value>
+	</room>
+	<room>
+		<name>Room #115</name>
+		<value>9</value>
+	</room>
+	<room>
+		<name>Room #116</name>
+		<value>14</value>
+	</room>
+	<room>
+		<name>Room #117</name>
+		<value>12</value>
+	</room>
+	<room>
+		<name>Room #118</name>
+		<value>10</value>
+	</room>
+	<room>
+		<name>Room #119</name>
+		<value>8</value>
+	</room>
+	<room>
+		<name>Room #120</name>
+		<value>12</value>
+	</room>
+	<room>
+		<name>Room #121</name>
+		<value>10</value>
+	</room>
+	<room>
+		<name>Room #122</name>
+		<value>10</value>
+	</room>
+	<room>
+		<name>Room #123</name>
+		<value>12</value>
+	</room>
+	<room>
+		<name>Room #124</name>
+		<value>14</value>
+	</room>
+	<room>
+		<name>Room #125</name>
+		<value>8</value>
+	</room>
+	<room>
+		<name>Room #126</name>
+		<value>11</value>
+	</room>
+	<room>
+		<name>Room #127</name>
+		<value>11</value>
+	</room>
+	<room>
+		<name>Room #128</name>
+		<value>13</value>
+	</room>
+	<room>
+		<name>Room #129</name>
+		<value>8</value>
+	</room>
+	<room>
+		<name>Room #130</name>
+		<value>10</value>
+	</room>
+	<room>
+		<name>Room #131</name>
+		<value>8</value>
+	</room>
+	<room>
+		<name>Room #132</name>
+		<value>11</value>
+	</room>
+	<room>
+		<name>Room #133</name>
+		<value>16</value>
+	</room>
+	<room>
+		<name>Room #134</name>
+		<value>4</value>
+	</room>
+	<room>
+		<name>Room #135</name>
+		<value>7</value>
+	</room>
+	<room>
+		<name>Room #136</name>
+		<value>16</value>
+	</room>
+	<room>
+		<name>Room #137</name>
+		<value>11</value>
+	</room>
+	<room>
+		<name>Room #138</name>
+		<value>13</value>
+	</room>
+	<room>
+		<name>Room #139</name>
+		<value>14</value>
+	</room>
+	<room>
+		<name>Room #140</name>
+		<value>5</value>
+	</room>
+	<room>
+		<name>Room #141</name>
+		<value>5</value>
+	</room>
+	<room>
+		<name>Room #142</name>
+		<value>11</value>
+	</room>
+	<room>
+		<name>Room #143</name>
+		<value>10</value>
+	</room>
+	<room>
+		<name>Room #144</name>
+		<value>11</value>
+	</room>
+	<room>
+		<name>Room #145</name>
+		<value>16</value>
+	</room>
+	<room>
+		<name>Room #146</name>
+		<value>12</value>
+	</room>
+	<room>
+		<name>Room #147</name>
+		<value>8</value>
+	</room>
+	<room>
+		<name>Room #148</name>
+		<value>7</value>
+	</room>
+	<room>
+		<name>Room #149</name>
+		<value>11</value>
+	</room>
+	<room>
+		<name>Room #150</name>
+		<value>6</value>
+	</room>
+	<room>
+		<name>Room #151</name>
+		<value>12</value>
+	</room>
+	<room>
+		<name>Room #152</name>
+		<value>6</value>
+	</room>
+	<room>
+		<name>Room #153</name>
+		<value>7</value>
+	</room>
+	<room>
+		<name>Room #154</name>
+		<value>3</value>
+	</room>
+	<room>
+		<name>Room #155</name>
+		<value>18</value>
+	</room>
+	<room>
+		<name>Room #156</name>
+		<value>9</value>
+	</room>
+	<room>
+		<name>Room #157</name>
+		<value>4</value>
+	</room>
+	<room>
+		<name>Room #158</name>
+		<value>7</value>
+	</room>
+	<room>
+		<name>Room #159</name>
+		<value>7</value>
+	</room>
+	<room>
+		<name>Room #160</name>
+		<value>10</value>
+	</room>
+	<room>
+		<name>Room #161</name>
+		<value>15</value>
+	</room>
+	<room>
+		<name>Room #162</name>
+		<value>10</value>
+	</room>
+	<room>
+		<name>Room #163</name>
+		<value>8</value>
+	</room>
+	<room>
+		<name>Room #164</name>
+		<value>8</value>
+	</room>
+	<room>
+		<name>Room #165</name>
+		<value>10</value>
+	</room>
+	<room>
+		<name>Room #166</name>
+		<value>9</value>
+	</room>
+	<room>
+		<name>Room #167</name>
+		<value>7</value>
+	</room>
+	<room>
+		<name>Room #168</name>
+		<value>7</value>
+	</room>
+	<room>
+		<name>Room #169</name>
+		<value>14</value>
+	</room>
+	<room>
+		<name>Room #170</name>
+		<value>7</value>
+	</room>
+	<room>
+		<name>Room #171</name>
+		<value>6</value>
+	</room>
+	<room>
+		<name>Room #172</name>
+		<value>10</value>
+	</room>
+	<room>
+		<name>Room #173</name>
+		<value>10</value>
+	</room>
+	<room>
+		<name>Room #174</name>
+		<value>11</value>
+	</room>
+	<room>
+		<name>Room #175</name>
+		<value>13</value>
+	</room>
+	<room>
+		<name>Room #176</name>
+		<value>12</value>
+	</room>
+	<room>
+		<name>Room #177</name>
+		<value>6</value>
+	</room>
+	<room>
+		<name>Room #178</name>
+		<value>4</value>
+	</room>
+	<room>
+		<name>Room #179</name>
+		<value>10</value>
+	</room>
+	<room>
+		<name>Room #180</name>
+		<value>8</value>
+	</room>
+	<room>
+		<name>Room #181</name>
+		<value>7</value>
+	</room>
+	<room>
+		<name>Room #182</name>
+		<value>6</value>
+	</room>
+	<room>
+		<name>Room #183</name>
+		<value>7</value>
+	</room>
+	<room>
+		<name>Room #184</name>
+		<value>6</value>
+	</room>
+	<room>
+		<name>Room #185</name>
+		<value>8</value>
+	</room>
+	<room>
+		<name>Room #186</name>
+		<value>6</value>
+	</room>
+	<room>
+		<name>Room #187</name>
+		<value>14</value>
+	</room>
+	<room>
+		<name>Room #188</name>
+		<value>12</value>
+	</room>
+	<room>
+		<name>Room #189</name>
+		<value>12</value>
+	</room>
+	<room>
+		<name>Room #190</name>
+		<value>9</value>
+	</room>
+	<room>
+		<name>Room #191</name>
+		<value>7</value>
+	</room>
+	<room>
+		<name>Room #192</name>
+		<value>8</value>
+	</room>
+	<room>
+		<name>Room #193</name>
+		<value>11</value>
+	</room>
+	<room>
+		<name>Room #194</name>
+		<value>8</value>
+	</room>
+	<room>
+		<name>Room #195</name>
+		<value>14</value>
+	</room>
+	<room>
+		<name>Room #196</name>
+		<value>13</value>
+	</room>
+	<room>
+		<name>Room #197</name>
+		<value>19</value>
+	</room>
+	<room>
+		<name>Room #198</name>
+		<value>13</value>
+	</room>
+	<room>
+		<name>Room #199</name>
+		<value>12</value>
+	</room>
+	<room>
+		<name>Room #200</name>
+		<value>15</value>
+	</room>
+	<room>
+		<name>Room #201</name>
+		<value>13</value>
+	</room>
+	<room>
+		<name>Room #202</name>
+		<value>8</value>
+	</room>
+	<room>
+		<name>Room #203</name>
+		<value>9</value>
+	</room>
+	<room>
+		<name>Room #204</name>
+		<value>9</value>
+	</room>
+	<room>
+		<name>Room #205</name>
+		<value>16</value>
+	</room>
+	<room>
+		<name>Room #206</name>
+		<value>6</value>
+	</room>
+	<room>
+		<name>Room #207</name>
+		<value>11</value>
+	</room>
+	<room>
+		<name>Room #208</name>
+		<value>10</value>
+	</room>
+	<room>
+		<name>Room #209</name>
+		<value>16</value>
+	</room>
+	<room>
+		<name>Room #210</name>
+		<value>9</value>
+	</room>
+	<room>
+		<name>Room #211</name>
+		<value>9</value>
+	</room>
+	<room>
+		<name>Room #212</name>
+		<value>8</value>
+	</room>
+	<room>
+		<name>Room #213</name>
+		<value>12</value>
+	</room>
+	<room>
+		<name>Room #214</name>
+		<value>14</value>
+	</room>
+	<room>
+		<name>Room #215</name>
+		<value>10</value>
+	</room>
+	<room>
+		<name>Room #216</name>
+		<value>6</value>
+	</room>
+	<room>
+		<name>Room #217</name>
+		<value>14</value>
+	</room>
+	<room>
+		<name>Room #218</name>
+		<value>8</value>
+	</room>
+	<room>
+		<name>Room #219</name>
+		<value>6</value>
+	</room>
+	<room>
+		<name>Room #220</name>
+		<value>10</value>
+	</room>
+	<room>
+		<name>Room #221</name>
+		<value>12</value>
+	</room>
+	<room>
+		<name>Room #222</name>
+		<value>9</value>
+	</room>
+	<room>
+		<name>Room #223</name>
+		<value>6</value>
+	</room>
+	<room>
+		<name>Room #224</name>
+		<value>7</value>
+	</room>
+	<room>
+		<name>Room #225</name>
+		<value>14</value>
+	</room>
+	<room>
+		<name>Room #226</name>
+		<value>8</value>
+	</room>
+	<room>
+		<name>Room #227</name>
+		<value>11</value>
+	</room>
+	<room>
+		<name>Room #228</name>
+		<value>9</value>
+	</room>
+	<room>
+		<name>Room #229</name>
+		<value>7</value>
+	</room>
+	<room>
+		<name>Room #230</name>
+		<value>10</value>
+	</room>
+	<room>
+		<name>Room #231</name>
+		<value>11</value>
+	</room>
+	<room>
+		<name>Room #232</name>
+		<value>8</value>
+	</room>
+	<room>
+		<name>Room #233</name>
+		<value>11</value>
+	</room>
+	<room>
+		<name>Room #234</name>
+		<value>11</value>
+	</room>
+	<room>
+		<name>Room #235</name>
+		<value>11</value>
+	</room>
+	<room>
+		<name>Room #236</name>
+		<value>10</value>
+	</room>
+	<room>
+		<name>Room #237</name>
+		<value>16</value>
+	</room>
+	<room>
+		<name>Room #238</name>
+		<value>12</value>
+	</room>
+	<room>
+		<name>Room #239</name>
+		<value>10</value>
+	</room>
+	<room>
+		<name>Room #240</name>
+		<value>12</value>
+	</room>
+	<room>
+		<name>Room #241</name>
+		<value>10</value>
+	</room>
+	<room>
+		<name>Room #242</name>
+		<value>13</value>
+	</room>
+	<room>
+		<name>Room #243</name>
+		<value>9</value>
+	</room>
+	<room>
+		<name>Room #244</name>
+		<value>10</value>
+	</room>
+	<room>
+		<name>Room #245</name>
+		<value>10</value>
+	</room>
+	<room>
+		<name>Room #246</name>
+		<value>5</value>
+	</room>
+	<room>
+		<name>Room #247</name>
+		<value>12</value>
+	</room>
+	<room>
+		<name>Room #248</name>
+		<value>8</value>
+	</room>
+	<room>
+		<name>Room #249</name>
+		<value>12</value>
+	</room>
+	<room>
+		<name>Room #250</name>
+		<value>12</value>
+	</room>
+	<room>
+		<name>Room #251</name>
+		<value>8</value>
+	</room>
+	<room>
+		<name>Room #252</name>
+		<value>11</value>
+	</room>
+	<room>
+		<name>Room #253</name>
+		<value>13</value>
+	</room>
+	<room>
+		<name>Room #254</name>
+		<value>8</value>
+	</room>
+	<room>
+		<name>Room #255</name>
+		<value>6</value>
+	</room>
+	<room>
+		<name>Room #256</name>
+		<value>11</value>
+	</room>
+	<room>
+		<name>Room #257</name>
+		<value>8</value>
+	</room>
+	<room>
+		<name>Room #258</name>
+		<value>8</value>
+	</room>
+	<room>
+		<name>Room #259</name>
+		<value>14</value>
+	</room>
+	<room>
+		<name>Room #260</name>
+		<value>12</value>
+	</room>
+	<room>
+		<name>Room #261</name>
+		<value>7</value>
+	</room>
+	<room>
+		<name>Room #262</name>
+		<value>8</value>
+	</room>
+	<room>
+		<name>Room #263</name>
+		<value>9</value>
+	</room>
+	<room>
+		<name>Room #264</name>
+		<value>7</value>
+	</room>
+	<room>
+		<name>Room #265</name>
+		<value>14</value>
+	</room>
+	<room>
+		<name>Room #266</name>
+		<value>13</value>
+	</room>
+	<room>
+		<name>Room #267</name>
+		<value>7</value>
+	</room>
+	<room>
+		<name>Room #268</name>
+		<value>15</value>
+	</room>
+	<room>
+		<name>Room #269</name>
+		<value>10</value>
+	</room>
+	<room>
+		<name>Room #270</name>
+		<value>10</value>
+	</room>
+	<room>
+		<name>Room #271</name>
+		<value>11</value>
+	</room>
+	<room>
+		<name>Room #272</name>
+		<value>8</value>
+	</room>
+	<room>
+		<name>Room #273</name>
+		<value>9</value>
+	</room>
+	<room>
+		<name>Room #274</name>
+		<value>10</value>
+	</room>
+	<room>
+		<name>Room #275</name>
+		<value>12</value>
+	</room>
+	<room>
+		<name>Room #276</name>
+		<value>10</value>
+	</room>
+	<room>
+		<name>Room #277</name>
+		<value>10</value>
+	</room>
+	<room>
+		<name>Room #278</name>
+		<value>9</value>
+	</room>
+	<room>
+		<name>Room #279</name>
+		<value>10</value>
+	</room>
+	<room>
+		<name>Room #280</name>
+		<value>11</value>
+	</room>
+	<room>
+		<name>Room #281</name>
+		<value>8</value>
+	</room>
+	<room>
+		<name>Room #282</name>
+		<value>10</value>
+	</room>
+	<room>
+		<name>Room #283</name>
+		<value>7</value>
+	</room>
+	<room>
+		<name>Room #284</name>
+		<value>11</value>
+	</room>
+	<room>
+		<name>Room #285</name>
+		<value>10</value>
+	</room>
+	<room>
+		<name>Room #286</name>
+		<value>6</value>
+	</room>
+	<room>
+		<name>Room #287</name>
+		<value>12</value>
+	</room>
+	<room>
+		<name>Room #288</name>
+		<value>9</value>
+	</room>
+	<room>
+		<name>Room #289</name>
+		<value>15</value>
+	</room>
+	<room>
+		<name>Room #290</name>
+		<value>9</value>
+	</room>
+	<room>
+		<name>Room #291</name>
+		<value>10</value>
+	</room>
+	<room>
+		<name>Room #292</name>
+		<value>10</value>
+	</room>
+	<room>
+		<name>Room #293</name>
+		<value>12</value>
+	</room>
+	<room>
+		<name>Room #294</name>
+		<value>11</value>
+	</room>
+	<room>
+		<name>Room #295</name>
+		<value>8</value>
+	</room>
+	<room>
+		<name>Room #296</name>
+		<value>8</value>
+	</room>
+	<room>
+		<name>Room #297</name>
+		<value>13</value>
+	</room>
+	<room>
+		<name>Room #298</name>
+		<value>9</value>
+	</room>
+	<room>
+		<name>Room #299</name>
+		<value>8</value>
+	</room>
+	<room>
+		<name>Room #300</name>
+		<value>12</value>
+	</room>
+	<room>
+		<name>Room #301</name>
+		<value>10</value>
+	</room>
+	<room>
+		<name>Room #302</name>
+		<value>8</value>
+	</room>
+	<room>
+		<name>Room #303</name>
+		<value>9</value>
+	</room>
+	<room>
+		<name>Room #304</name>
+		<value>11</value>
+	</room>
+	<room>
+		<name>Room #305</name>
+		<value>14</value>
+	</room>
+	<room>
+		<name>Room #306</name>
+		<value>10</value>
+	</room>
+	<room>
+		<name>Room #307</name>
+		<value>10</value>
+	</room>
+	<room>
+		<name>Room #308</name>
+		<value>10</value>
+	</room>
+	<room>
+		<name>Room #309</name>
+		<value>7</value>
+	</room>
+	<room>
+		<name>Room #310</name>
+		<value>10</value>
+	</room>
+	<room>
+		<name>Room #311</name>
+		<value>14</value>
+	</room>
+	<room>
+		<name>Room #312</name>
+		<value>11</value>
+	</room>
+	<room>
+		<name>Room #313</name>
+		<value>8</value>
+	</room>
+	<room>
+		<name>Room #314</name>
+		<value>11</value>
+	</room>
+	<room>
+		<name>Room #315</name>
+		<value>10</value>
+	</room>
+	<room>
+		<name>Room #316</name>
+		<value>11</value>
+	</room>
+	<room>
+		<name>Room #317</name>
+		<value>14</value>
+	</room>
+	<room>
+		<name>Room #318</name>
+		<value>15</value>
+	</room>
+	<room>
+		<name>Room #319</name>
+		<value>11</value>
+	</room>
+	<room>
+		<name>Room #320</name>
+		<value>7</value>
+	</room>
+	<room>
+		<name>Room #321</name>
+		<value>13</value>
+	</room>
+	<room>
+		<name>Room #322</name>
+		<value>9</value>
+	</room>
+	<room>
+		<name>Room #323</name>
+		<value>13</value>
+	</room>
+	<room>
+		<name>Room #324</name>
+		<value>6</value>
+	</room>
+	<room>
+		<name>Room #325</name>
+		<value>6</value>
+	</room>
+	<room>
+		<name>Room #326</name>
+		<value>18</value>
+	</room>
+	<room>
+		<name>Room #327</name>
+		<value>8</value>
+	</room>
+	<room>
+		<name>Room #328</name>
+		<value>16</value>
+	</room>
+	<room>
+		<name>Room #329</name>
+		<value>10</value>
+	</room>
+	<room>
+		<name>Room #330</name>
+		<value>11</value>
+	</room>
+	<room>
+		<name>Room #331</name>
+		<value>12</value>
+	</room>
+	<room>
+		<name>Room #332</name>
+		<value>11</value>
+	</room>
+	<room>
+		<name>Room #333</name>
+		<value>5</value>
+	</room>
+	<room>
+		<name>Room #334</name>
+		<value>10</value>
+	</room>
+	<room>
+		<name>Room #335</name>
+		<value>8</value>
+	</room>
+	<room>
+		<name>Room #336</name>
+		<value>11</value>
+	</room>
+	<room>
+		<name>Room #337</name>
+		<value>11</value>
+	</room>
+	<room>
+		<name>Room #338</name>
+		<value>11</value>
+	</room>
+	<room>
+		<name>Room #339</name>
+		<value>8</value>
+	</room>
+	<room>
+		<name>Room #340</name>
+		<value>7</value>
+	</room>
+	<room>
+		<name>Room #341</name>
+		<value>9</value>
+	</room>
+	<room>
+		<name>Room #342</name>
+		<value>14</value>
+	</room>
+	<room>
+		<name>Room #343</name>
+		<value>14</value>
+	</room>
+	<room>
+		<name>Room #344</name>
+		<value>13</value>
+	</room>
+	<room>
+		<name>Room #345</name>
+		<value>4</value>
+	</room>
+	<room>
+		<name>Room #346</name>
+		<value>10</value>
+	</room>
+	<room>
+		<name>Room #347</name>
+		<value>12</value>
+	</room>
+	<room>
+		<name>Room #348</name>
+		<value>12</value>
+	</room>
+	<room>
+		<name>Room #349</name>
+		<value>8</value>
+	</room>
+	<room>
+		<name>Room #350</name>
+		<value>11</value>
+	</room>
+	<room>
+		<name>Room #351</name>
+		<value>6</value>
+	</room>
+	<room>
+		<name>Room #352</name>
+		<value>8</value>
+	</room>
+	<room>
+		<name>Room #353</name>
+		<value>4</value>
+	</room>
+	<room>
+		<name>Room #354</name>
+		<value>6</value>
+	</room>
+	<room>
+		<name>Room #355</name>
+		<value>16</value>
+	</room>
+	<room>
+		<name>Room #356</name>
+		<value>16</value>
+	</room>
+	<room>
+		<name>Room #357</name>
+		<value>16</value>
+	</room>
+	<room>
+		<name>Room #358</name>
+		<value>11</value>
+	</room>
+	<room>
+		<name>Room #359</name>
+		<value>18</value>
+	</room>
+	<room>
+		<name>Room #360</name>
+		<value>8</value>
+	</room>
+	<room>
+		<name>Room #361</name>
+		<value>6</value>
+	</room>
+	<room>
+		<name>Room #362</name>
+		<value>10</value>
+	</room>
+	<room>
+		<name>Room #363</name>
+		<value>7</value>
+	</room>
+	<room>
+		<name>Room #364</name>
+		<value>8</value>
+	</room>
+	<room>
+		<name>Room #365</name>
+		<value>14</value>
+	</room>
+	<room>
+		<name>Room #366</name>
+		<value>15</value>
+	</room>
+	<room>
+		<name>Room #367</name>
+		<value>11</value>
+	</room>
+	<room>
+		<name>Room #368</name>
+		<value>13</value>
+	</room>
+	<room>
+		<name>Room #369</name>
+		<value>13</value>
+	</room>
+	<room>
+		<name>Room #370</name>
+		<value>10</value>
+	</room>
+	<room>
+		<name>Room #371</name>
+		<value>14</value>
+	</room>
+	<room>
+		<name>Room #372</name>
+		<value>7</value>
+	</room>
+	<room>
+		<name>Room #373</name>
+		<value>16</value>
+	</room>
+	<room>
+		<name>Room #374</name>
+		<value>9</value>
+	</room>
+	<room>
+		<name>Room #375</name>
+		<value>8</value>
+	</room>
+	<room>
+		<name>Room #376</name>
+		<value>11</value>
+	</room>
+	<room>
+		<name>Room #377</name>
+		<value>8</value>
+	</room>
+	<room>
+		<name>Room #378</name>
+		<value>11</value>
+	</room>
+	<room>
+		<name>Room #379</name>
+		<value>12</value>
+	</room>
+	<room>
+		<name>Room #380</name>
+		<value>8</value>
+	</room>
+	<room>
+		<name>Room #381</name>
+		<value>11</value>
+	</room>
+	<room>
+		<name>Room #382</name>
+		<value>5</value>
+	</room>
+	<room>
+		<name>Room #383</name>
+		<value>5</value>
+	</room>
+	<room>
+		<name>Room #384</name>
+		<value>7</value>
+	</room>
+	<room>
+		<name>Room #385</name>
+		<value>11</value>
+	</room>
+	<room>
+		<name>Room #386</name>
+		<value>11</value>
+	</room>
+	<room>
+		<name>Room #387</name>
+		<value>10</value>
+	</room>
+	<room>
+		<name>Room #388</name>
+		<value>9</value>
+	</room>
+	<room>
+		<name>Room #389</name>
+		<value>9</value>
+	</room>
+	<room>
+		<name>Room #390</name>
+		<value>15</value>
+	</room>
+	<room>
+		<name>Room #391</name>
+		<value>10</value>
+	</room>
+	<room>
+		<name>Room #392</name>
+		<value>18</value>
+	</room>
+	<room>
+		<name>Room #393</name>
+		<value>8</value>
+	</room>
+	<room>
+		<name>Room #394</name>
+		<value>9</value>
+	</room>
+	<room>
+		<name>Room #395</name>
+		<value>13</value>
+	</room>
+	<room>
+		<name>Room #396</name>
+		<value>5</value>
+	</room>
+	<room>
+		<name>Room #397</name>
+		<value>8</value>
+	</room>
+	<room>
+		<name>Room #398</name>
+		<value>13</value>
+	</room>
+	<room>
+		<name>Room #399</name>
+		<value>9</value>
+	</room>
+	<room>
+		<name>Room #400</name>
+		<value>11</value>
+	</room>
+	<room>
+		<name>Room #401</name>
+		<value>7</value>
+	</room>
+	<room>
+		<name>Room #402</name>
+		<value>10</value>
+	</room>
+	<room>
+		<name>Room #403</name>
+		<value>6</value>
+	</room>
+	<room>
+		<name>Room #404</name>
+		<value>7</value>
+	</room>
+	<room>
+		<name>Room #405</name>
+		<value>7</value>
+	</room>
+	<room>
+		<name>Room #406</name>
+		<value>14</value>
+	</room>
+	<room>
+		<name>Room #407</name>
+		<value>10</value>
+	</room>
+	<room>
+		<name>Room #408</name>
+		<value>9</value>
+	</room>
+	<room>
+		<name>Room #409</name>
+		<value>8</value>
+	</room>
+	<room>
+		<name>Room #410</name>
+		<value>6</value>
+	</room>
+	<room>
+		<name>Room #411</name>
+		<value>9</value>
+	</room>
+	<room>
+		<name>Room #412</name>
+		<value>13</value>
+	</room>
+	<room>
+		<name>Room #413</name>
+		<value>9</value>
+	</room>
+	<room>
+		<name>Room #414</name>
+		<value>10</value>
+	</room>
+	<room>
+		<name>Room #415</name>
+		<value>12</value>
+	</room>
+	<room>
+		<name>Room #416</name>
+		<value>8</value>
+	</room>
+	<room>
+		<name>Room #417</name>
+		<value>9</value>
+	</room>
+	<room>
+		<name>Room #418</name>
+		<value>15</value>
+	</room>
+	<room>
+		<name>Room #419</name>
+		<value>3</value>
+	</room>
+	<room>
+		<name>Room #420</name>
+		<value>6</value>
+	</room>
+	<room>
+		<name>Room #421</name>
+		<value>9</value>
+	</room>
+	<room>
+		<name>Room #422</name>
+		<value>2</value>
+	</room>
+	<room>
+		<name>Room #423</name>
+		<value>16</value>
+	</room>
+	<room>
+		<name>Room #424</name>
+		<value>8</value>
+	</room>
+	<room>
+		<name>Room #425</name>
+		<value>9</value>
+	</room>
+	<room>
+		<name>Room #426</name>
+		<value>10</value>
+	</room>
+	<room>
+		<name>Room #427</name>
+		<value>8</value>
+	</room>
+	<room>
+		<name>Room #428</name>
+		<value>10</value>
+	</room>
+	<room>
+		<name>Room #429</name>
+		<value>10</value>
+	</room>
+	<room>
+		<name>Room #430</name>
+		<value>9</value>
+	</room>
+	<room>
+		<name>Room #431</name>
+		<value>11</value>
+	</room>
+	<room>
+		<name>Room #432</name>
+		<value>15</value>
+	</room>
+	<room>
+		<name>Room #433</name>
+		<value>9</value>
+	</room>
+	<room>
+		<name>Room #434</name>
+		<value>9</value>
+	</room>
+	<room>
+		<name>Room #435</name>
+		<value>11</value>
+	</room>
+	<room>
+		<name>Room #436</name>
+		<value>5</value>
+	</room>
+	<room>
+		<name>Room #437</name>
+		<value>16</value>
+	</room>
+	<room>
+		<name>Room #438</name>
+		<value>11</value>
+	</room>
+	<room>
+		<name>Room #439</name>
+		<value>11</value>
+	</room>
+	<room>
+		<name>Room #440</name>
+		<value>6</value>
+	</room>
+	<room>
+		<name>Room #441</name>
+		<value>7</value>
+	</room>
+	<room>
+		<name>Room #442</name>
+		<value>15</value>
+	</room>
+	<room>
+		<name>Room #443</name>
+		<value>4</value>
+	</room>
+	<room>
+		<name>Room #444</name>
+		<value>8</value>
+	</room>
+	<room>
+		<name>Room #445</name>
+		<value>8</value>
+	</room>
+	<room>
+		<name>Room #446</name>
+		<value>11</value>
+	</room>
+	<room>
+		<name>Room #447</name>
+		<value>14</value>
+	</room>
+	<room>
+		<name>Room #448</name>
+		<value>18</value>
+	</room>
+	<room>
+		<name>Room #449</name>
+		<value>8</value>
+	</room>
+	<room>
+		<name>Room #450</name>
+		<value>6</value>
+	</room>
+	<room>
+		<name>Room #451</name>
+		<value>15</value>
+	</room>
+	<room>
+		<name>Room #452</name>
+		<value>14</value>
+	</room>
+	<room>
+		<name>Room #453</name>
+		<value>10</value>
+	</room>
+	<room>
+		<name>Room #454</name>
+		<value>9</value>
+	</room>
+	<room>
+		<name>Room #455</name>
+		<value>10</value>
+	</room>
+	<room>
+		<name>Room #456</name>
+		<value>6</value>
+	</room>
+	<room>
+		<name>Room #457</name>
+		<value>13</value>
+	</room>
+	<room>
+		<name>Room #458</name>
+		<value>9</value>
+	</room>
+	<room>
+		<name>Room #459</name>
+		<value>11</value>
+	</room>
+	<room>
+		<name>Room #460</name>
+		<value>14</value>
+	</room>
+	<room>
+		<name>Room #461</name>
+		<value>8</value>
+	</room>
+	<room>
+		<name>Room #462</name>
+		<value>8</value>
+	</room>
+	<room>
+		<name>Room #463</name>
+		<value>11</value>
+	</room>
+	<room>
+		<name>Room #464</name>
+		<value>16</value>
+	</room>
+	<room>
+		<name>Room #465</name>
+		<value>11</value>
+	</room>
+	<room>
+		<name>Room #466</name>
+		<value>5</value>
+	</room>
+	<room>
+		<name>Room #467</name>
+		<value>11</value>
+	</room>
+	<room>
+		<name>Room #468</name>
+		<value>11</value>
+	</room>
+	<room>
+		<name>Room #469</name>
+		<value>15</value>
+	</room>
+	<room>
+		<name>Room #470</name>
+		<value>8</value>
+	</room>
+	<room>
+		<name>Room #471</name>
+		<value>10</value>
+	</room>
+	<room>
+		<name>Room #472</name>
+		<value>8</value>
+	</room>
+	<room>
+		<name>Room #473</name>
+		<value>14</value>
+	</room>
+	<room>
+		<name>Room #474</name>
+		<value>9</value>
+	</room>
+	<room>
+		<name>Room #475</name>
+		<value>9</value>
+	</room>
+	<room>
+		<name>Room #476</name>
+		<value>9</value>
+	</room>
+	<room>
+		<name>Room #477</name>
+		<value>10</value>
+	</room>
+	<room>
+		<name>Room #478</name>
+		<value>6</value>
+	</room>
+	<room>
+		<name>Room #479</name>
+		<value>6</value>
+	</room>
+	<room>
+		<name>Room #480</name>
+		<value>6</value>
+	</room>
+	<room>
+		<name>Room #481</name>
+		<value>9</value>
+	</room>
+	<room>
+		<name>Room #483</name>
+		<value>10</value>
+	</room>
+	<room>
+		<name>Room #484</name>
+		<value>4</value>
+	</room>
+	<room>
+		<name>Room #485</name>
+		<value>7</value>
+	</room>
+	<room>
+		<name>Room #486</name>
+		<value>17</value>
+	</room>
+	<room>
+		<name>Room #487</name>
+		<value>4</value>
+	</room>
+	<room>
+		<name>Room #488</name>
+		<value>15</value>
+	</room>
+	<room>
+		<name>Room #489</name>
+		<value>17</value>
+	</room>
+	<room>
+		<name>Room #490</name>
+		<value>11</value>
+	</room>
+	<room>
+		<name>Room #491</name>
+		<value>17</value>
+	</room>
+	<room>
+		<name>Room #492</name>
+		<value>8</value>
+	</room>
+	<room>
+		<name>Room #493</name>
+		<value>7</value>
+	</room>
+	<room>
+		<name>Room #494</name>
+		<value>6</value>
+	</room>
+	<room>
+		<name>Room #495</name>
+		<value>6</value>
+	</room>
+	<room>
+		<name>Room #496</name>
+		<value>12</value>
+	</room>
+	<room>
+		<name>Room #497</name>
+		<value>17</value>
+	</room>
+	<room>
+		<name>Room #498</name>
+		<value>4</value>
+	</room>
+	<room>
+		<name>Room #499</name>
+		<value>8</value>
+	</room>
+	<room>
+		<name>Room #500</name>
+		<value>10</value>
+	</room>
+	<room>
+		<name>Room #501</name>
+		<value>10</value>
+	</room>
+	<room>
+		<name>Room #502</name>
+		<value>8</value>
+	</room>
+	<room>
+		<name>Room #503</name>
+		<value>10</value>
+	</room>
+	<room>
+		<name>Room #504</name>
+		<value>10</value>
+	</room>
+	<room>
+		<name>Room #505</name>
+		<value>15</value>
+	</room>
+	<room>
+		<name>Room #506</name>
+		<value>18</value>
+	</room>
+	<room>
+		<name>Room #507</name>
+		<value>9</value>
+	</room>
+	<room>
+		<name>Room #508</name>
+		<value>9</value>
+	</room>
+	<room>
+		<name>Room #509</name>
+		<value>12</value>
+	</room>
+	<room>
+		<name>Room #510</name>
+		<value>14</value>
+	</room>
+	<room>
+		<name>Room #511</name>
+		<value>10</value>
+	</room>
+	<room>
+		<name>Room #512</name>
+		<value>9</value>
+	</room>
+	<room>
+		<name>Room #513</name>
+		<value>12</value>
+	</room>
+	<room>
+		<name>Room #514</name>
+		<value>15</value>
+	</room>
+	<room>
+		<name>Room #515</name>
+		<value>10</value>
+	</room>
+	<room>
+		<name>Room #516</name>
+		<value>13</value>
+	</room>
+	<room>
+		<name>Room #517</name>
+		<value>9</value>
+	</room>
+	<room>
+		<name>Room #518</name>
+		<value>11</value>
+	</room>
+	<room>
+		<name>Room #519</name>
+		<value>12</value>
+	</room>
+	<room>
+		<name>Room #520</name>
+		<value>13</value>
+	</room>
+	<room>
+		<name>Room #521</name>
+		<value>16</value>
+	</room>
+	<room>
+		<name>Room #522</name>
+		<value>5</value>
+	</room>
+	<room>
+		<name>Room #523</name>
+		<value>11</value>
+	</room>
+	<room>
+		<name>Room #524</name>
+		<value>8</value>
+	</room>
+	<room>
+		<name>Room #525</name>
+		<value>14</value>
+	</room>
+	<room>
+		<name>Room #526</name>
+		<value>10</value>
+	</room>
+	<room>
+		<name>Room #527</name>
+		<value>13</value>
+	</room>
+	<room>
+		<name>Room #528</name>
+		<value>11</value>
+	</room>
+	<room>
+		<name>Room #529</name>
+		<value>9</value>
+	</room>
+	<room>
+		<name>Room #530</name>
+		<value>14</value>
+	</room>
+	<room>
+		<name>Room #531</name>
+		<value>8</value>
+	</room>
+	<room>
+		<name>Room #532</name>
+		<value>12</value>
+	</room>
+	<room>
+		<name>Room #533</name>
+		<value>10</value>
+	</room>
+	<room>
+		<name>Room #534</name>
+		<value>14</value>
+	</room>
+	<room>
+		<name>Room #535</name>
+		<value>15</value>
+	</room>
+	<room>
+		<name>Room #536</name>
+		<value>10</value>
+	</room>
+	<room>
+		<name>Room #537</name>
+		<value>13</value>
+	</room>
+	<room>
+		<name>Room #538</name>
+		<value>5</value>
+	</room>
+	<room>
+		<name>Room #539</name>
+		<value>8</value>
+	</room>
+	<room>
+		<name>Room #540</name>
+		<value>5</value>
+	</room>
+	<room>
+		<name>Room #541</name>
+		<value>15</value>
+	</room>
+	<room>
+		<name>Room #542</name>
+		<value>9</value>
+	</room>
+	<room>
+		<name>Room #543</name>
+		<value>14</value>
+	</room>
+	<room>
+		<name>Room #544</name>
+		<value>13</value>
+	</room>
+	<room>
+		<name>Room #545</name>
+		<value>12</value>
+	</room>
+	<room>
+		<name>Room #546</name>
+		<value>10</value>
+	</room>
+	<room>
+		<name>Room #547</name>
+		<value>13</value>
+	</room>
+	<room>
+		<name>Room #548</name>
+		<value>11</value>
+	</room>
+	<room>
+		<name>Room #549</name>
+		<value>8</value>
+	</room>
+	<room>
+		<name>Room #550</name>
+		<value>15</value>
+	</room>
+	<room>
+		<name>Room #551</name>
+		<value>8</value>
+	</room>
+	<room>
+		<name>Room #552</name>
+		<value>11</value>
+	</room>
+	<room>
+		<name>Room #553</name>
+		<value>13</value>
+	</room>
+	<room>
+		<name>Room #554</name>
+		<value>7</value>
+	</room>
+	<room>
+		<name>Room #555</name>
+		<value>8</value>
+	</room>
+	<room>
+		<name>Room #556</name>
+		<value>17</value>
+	</room>
+	<room>
+		<name>Room #557</name>
+		<value>14</value>
+	</room>
+	<room>
+		<name>Room #558</name>
+		<value>7</value>
+	</room>
+	<room>
+		<name>Room #559</name>
+		<value>14</value>
+	</room>
+	<room>
+		<name>Room #560</name>
+		<value>10</value>
+	</room>
+	<room>
+		<name>Room #561</name>
+		<value>13</value>
+	</room>
+	<room>
+		<name>Room #562</name>
+		<value>9</value>
+	</room>
+	<room>
+		<name>Room #563</name>
+		<value>16</value>
+	</room>
+	<room>
+		<name>Room #564</name>
+		<value>7</value>
+	</room>
+	<room>
+		<name>Room #565</name>
+		<value>9</value>
+	</room>
+	<room>
+		<name>Room #566</name>
+		<value>9</value>
+	</room>
+	<room>
+		<name>Room #567</name>
+		<value>10</value>
+	</room>
+	<room>
+		<name>Room #568</name>
+		<value>7</value>
+	</room>
+	<room>
+		<name>Room #569</name>
+		<value>6</value>
+	</room>
+	<room>
+		<name>Room #570</name>
+		<value>11</value>
+	</room>
+	<room>
+		<name>Room #571</name>
+		<value>5</value>
+	</room>
+	<room>
+		<name>Room #572</name>
+		<value>14</value>
+	</room>
+	<room>
+		<name>Room #573</name>
+		<value>17</value>
+	</room>
+	<room>
+		<name>Room #574</name>
+		<value>10</value>
+	</room>
+	<room>
+		<name>Room #575</name>
+		<value>12</value>
+	</room>
+	<room>
+		<name>Room #576</name>
+		<value>10</value>
+	</room>
+	<room>
+		<name>Room #577</name>
+		<value>8</value>
+	</room>
+	<room>
+		<name>Room #578</name>
+		<value>6</value>
+	</room>
+	<room>
+		<name>Room #579</name>
+		<value>7</value>
+	</room>
+	<room>
+		<name>Room #580</name>
+		<value>7</value>
+	</room>
+	<room>
+		<name>Room #581</name>
+		<value>13</value>
+	</room>
+	<room>
+		<name>Room #582</name>
+		<value>13</value>
+	</room>
+	<room>
+		<name>Room #583</name>
+		<value>9</value>
+	</room>
+	<room>
+		<name>Room #584</name>
+		<value>11</value>
+	</room>
+	<room>
+		<name>Room #585</name>
+		<value>7</value>
+	</room>
+	<room>
+		<name>Room #586</name>
+		<value>8</value>
+	</room>
+	<room>
+		<name>Room #587</name>
+		<value>9</value>
+	</room>
+	<room>
+		<name>Room #588</name>
+		<value>12</value>
+	</room>
+	<room>
+		<name>Room #589</name>
+		<value>7</value>
+	</room>
+	<room>
+		<name>Room #590</name>
+		<value>12</value>
+	</room>
+	<room>
+		<name>Room #591</name>
+		<value>18</value>
+	</room>
+	<room>
+		<name>Room #592</name>
+		<value>11</value>
+	</room>
+	<room>
+		<name>Room #593</name>
+		<value>8</value>
+	</room>
+	<room>
+		<name>Room #594</name>
+		<value>11</value>
+	</room>
+	<room>
+		<name>Room #595</name>
+		<value>7</value>
+	</room>
+	<room>
+		<name>Room #596</name>
+		<value>9</value>
+	</room>
+	<room>
+		<name>Room #597</name>
+		<value>13</value>
+	</room>
+	<room>
+		<name>Room #598</name>
+		<value>9</value>
+	</room>
+	<room>
+		<name>Room #599</name>
+		<value>16</value>
+	</room>
+	<room>
+		<name>Room #600</name>
+		<value>7</value>
+	</room>
+	<room>
+		<name>Room #601</name>
+		<value>11</value>
+	</room>
+	<room>
+		<name>Room #602</name>
+		<value>10</value>
+	</room>
+	<room>
+		<name>Room #603</name>
+		<value>13</value>
+	</room>
+	<room>
+		<name>Room #604</name>
+		<value>8</value>
+	</room>
+	<room>
+		<name>Room #605</name>
+		<value>8</value>
+	</room>
+	<room>
+		<name>Room #606</name>
+		<value>10</value>
+	</room>
+	<room>
+		<name>Room #607</name>
+		<value>11</value>
+	</room>
+	<room>
+		<name>Room #608</name>
+		<value>14</value>
+	</room>
+	<room>
+		<name>Room #609</name>
+		<value>10</value>
+	</room>
+	<room>
+		<name>Room #610</name>
+		<value>8</value>
+	</room>
+	<room>
+		<name>Room #611</name>
+		<value>4</value>
+	</room>
+	<room>
+		<name>Room #612</name>
+		<value>10</value>
+	</room>
+	<room>
+		<name>Room #613</name>
+		<value>11</value>
+	</room>
+	<room>
+		<name>Room #614</name>
+		<value>6</value>
+	</room>
+	<room>
+		<name>Room #615</name>
+		<value>7</value>
+	</room>
+	<room>
+		<name>Room #616</name>
+		<value>7</value>
+	</room>
+	<room>
+		<name>Room #617</name>
+		<value>10</value>
+	</room>
+	<room>
+		<name>Room #618</name>
+		<value>12</value>
+	</room>
+	<room>
+		<name>Room #619</name>
+		<value>9</value>
+	</room>
+	<room>
+		<name>Room #620</name>
+		<value>10</value>
+	</room>
+	<room>
+		<name>Room #621</name>
+		<value>10</value>
+	</room>
+	<room>
+		<name>Room #622</name>
+		<value>13</value>
+	</room>
+	<room>
+		<name>Room #623</name>
+		<value>10</value>
+	</room>
+	<room>
+		<name>Room #624</name>
+		<value>8</value>
+	</room>
+	<room>
+		<name>Room #625</name>
+		<value>10</value>
+	</room>
+	<room>
+		<name>Room #626</name>
+		<value>13</value>
+	</room>
+	<room>
+		<name>Room #627</name>
+		<value>15</value>
+	</room>
+	<room>
+		<name>Room #628</name>
+		<value>5</value>
+	</room>
+	<room>
+		<name>Room #629</name>
+		<value>12</value>
+	</room>
+	<room>
+		<name>Room #630</name>
+		<value>10</value>
+	</room>
+	<room>
+		<name>Room #631</name>
+		<value>16</value>
+	</room>
+	<room>
+		<name>Room #632</name>
+		<value>9</value>
+	</room>
+	<room>
+		<name>Room #633</name>
+		<value>7</value>
+	</room>
+	<room>
+		<name>Room #634</name>
+		<value>6</value>
+	</room>
+	<room>
+		<name>Room #635</name>
+		<value>8</value>
+	</room>
+	<room>
+		<name>Room #636</name>
+		<value>5</value>
+	</room>
+	<room>
+		<name>Room #637</name>
+		<value>13</value>
+	</room>
+	<room>
+		<name>Room #638</name>
+		<value>7</value>
+	</room>
+	<room>
+		<name>Room #639</name>
+		<value>8</value>
+	</room>
+	<room>
+		<name>Room #640</name>
+		<value>6</value>
+	</room>
+	<room>
+		<name>Room #641</name>
+		<value>8</value>
+	</room>
+	<room>
+		<name>Room #642</name>
+		<value>9</value>
+	</room>
+	<room>
+		<name>Room #643</name>
+		<value>11</value>
+	</room>
+	<room>
+		<name>Room #644</name>
+		<value>8</value>
+	</room>
+	<room>
+		<name>Room #645</name>
+		<value>6</value>
+	</room>
+	<room>
+		<name>Room #646</name>
+		<value>14</value>
+	</room>
+	<room>
+		<name>Room #647</name>
+		<value>9</value>
+	</room>
+	<room>
+		<name>Room #648</name>
+		<value>8</value>
+	</room>
+	<room>
+		<name>Room #649</name>
+		<value>9</value>
+	</room>
+	<room>
+		<name>Room #650</name>
+		<value>10</value>
+	</room>
+	<room>
+		<name>Room #651</name>
+		<value>10</value>
+	</room>
+	<room>
+		<name>Room #652</name>
+		<value>7</value>
+	</room>
+	<room>
+		<name>Room #653</name>
+		<value>8</value>
+	</room>
+	<room>
+		<name>Room #654</name>
+		<value>12</value>
+	</room>
+	<room>
+		<name>Room #655</name>
+		<value>9</value>
+	</room>
+	<room>
+		<name>Room #656</name>
+		<value>13</value>
+	</room>
+	<room>
+		<name>Room #657</name>
+		<value>15</value>
+	</room>
+	<room>
+		<name>Room #658</name>
+		<value>10</value>
+	</room>
+	<room>
+		<name>Room #659</name>
+		<value>7</value>
+	</room>
+	<room>
+		<name>Room #660</name>
+		<value>13</value>
+	</room>
+	<room>
+		<name>Room #661</name>
+		<value>3</value>
+	</room>
+	<room>
+		<name>Room #662</name>
+		<value>7</value>
+	</room>
+	<room>
+		<name>Room #663</name>
+		<value>6</value>
+	</room>
+	<room>
+		<name>Room #664</name>
+		<value>5</value>
+	</room>
+	<room>
+		<name>Room #665</name>
+		<value>14</value>
+	</room>
+	<room>
+		<name>Room #666</name>
+		<value>8</value>
+	</room>
+	<room>
+		<name>Room #667</name>
+		<value>8</value>
+	</room>
+	<room>
+		<name>Room #668</name>
+		<value>8</value>
+	</room>
+	<room>
+		<name>Room #669</name>
+		<value>7</value>
+	</room>
+	<room>
+		<name>Room #670</name>
+		<value>10</value>
+	</room>
+	<room>
+		<name>Room #671</name>
+		<value>9</value>
+	</room>
+	<room>
+		<name>Room #672</name>
+		<value>10</value>
+	</room>
+	<room>
+		<name>Room #673</name>
+		<value>9</value>
+	</room>
+	<room>
+		<name>Room #674</name>
+		<value>9</value>
+	</room>
+	<room>
+		<name>Room #675</name>
+		<value>12</value>
+	</room>
+	<room>
+		<name>Room #676</name>
+		<value>8</value>
+	</room>
+	<room>
+		<name>Room #677</name>
+		<value>3</value>
+	</room>
+	<room>
+		<name>Room #678</name>
+		<value>8</value>
+	</room>
+	<room>
+		<name>Room #679</name>
+		<value>14</value>
+	</room>
+	<room>
+		<name>Room #680</name>
+		<value>10</value>
+	</room>
+	<room>
+		<name>Room #681</name>
+		<value>4</value>
+	</room>
+	<room>
+		<name>Room #682</name>
+		<value>11</value>
+	</room>
+	<room>
+		<name>Room #683</name>
+		<value>9</value>
+	</room>
+	<room>
+		<name>Room #684</name>
+		<value>10</value>
+	</room>
+	<room>
+		<name>Room #685</name>
+		<value>12</value>
+	</room>
+	<room>
+		<name>Room #686</name>
+		<value>7</value>
+	</room>
+	<room>
+		<name>Room #687</name>
+		<value>8</value>
+	</room>
+	<room>
+		<name>Room #688</name>
+		<value>10</value>
+	</room>
+	<room>
+		<name>Room #689</name>
+		<value>7</value>
+	</room>
+	<room>
+		<name>Room #690</name>
+		<value>9</value>
+	</room>
+	<room>
+		<name>Room #691</name>
+		<value>8</value>
+	</room>
+	<room>
+		<name>Room #692</name>
+		<value>10</value>
+	</room>
+	<room>
+		<name>Room #693</name>
+		<value>10</value>
+	</room>
+	<room>
+		<name>Room #694</name>
+		<value>7</value>
+	</room>
+	<room>
+		<name>Room #695</name>
+		<value>15</value>
+	</room>
+	<room>
+		<name>Room #696</name>
+		<value>9</value>
+	</room>
+	<room>
+		<name>Room #697</name>
+		<value>9</value>
+	</room>
+	<room>
+		<name>Room #698</name>
+		<value>5</value>
+	</room>
+	<room>
+		<name>Room #699</name>
+		<value>15</value>
+	</room>
+	<room>
+		<name>Room #700</name>
+		<value>7</value>
+	</room>
+	<room>
+		<name>Room #701</name>
+		<value>11</value>
+	</room>
+	<room>
+		<name>Room #702</name>
+		<value>11</value>
+	</room>
+	<room>
+		<name>Room #703</name>
+		<value>12</value>
+	</room>
+	<room>
+		<name>Room #704</name>
+		<value>8</value>
+	</room>
+	<room>
+		<name>Room #705</name>
+		<value>9</value>
+	</room>
+	<room>
+		<name>Room #706</name>
+		<value>9</value>
+	</room>
+	<room>
+		<name>Room #707</name>
+		<value>9</value>
+	</room>
+	<room>
+		<name>Room #708</name>
+		<value>11</value>
+	</room>
+	<room>
+		<name>Room #709</name>
+		<value>14</value>
+	</room>
+	<room>
+		<name>Room #710</name>
+		<value>4</value>
+	</room>
+	<room>
+		<name>Room #711</name>
+		<value>12</value>
+	</room>
+	<room>
+		<name>Room #712</name>
+		<value>8</value>
+	</room>
+	<room>
+		<name>Room #713</name>
+		<value>12</value>
+	</room>
+	<room>
+		<name>Room #714</name>
+		<value>16</value>
+	</room>
+	<room>
+		<name>Room #715</name>
+		<value>5</value>
+	</room>
+	<room>
+		<name>Room #716</name>
+		<value>14</value>
+	</room>
+	<room>
+		<name>Room #717</name>
+		<value>11</value>
+	</room>
+	<room>
+		<name>Room #718</name>
+		<value>8</value>
+	</room>
+	<room>
+		<name>Room #719</name>
+		<value>14</value>
+	</room>
+	<room>
+		<name>Room #720</name>
+		<value>9</value>
+	</room>
+	<room>
+		<name>Room #721</name>
+		<value>7</value>
+	</room>
+	<room>
+		<name>Room #722</name>
+		<value>9</value>
+	</room>
+	<room>
+		<name>Room #723</name>
+		<value>7</value>
+	</room>
+	<room>
+		<name>Room #724</name>
+		<value>12</value>
+	</room>
+	<room>
+		<name>Room #725</name>
+		<value>14</value>
+	</room>
+	<room>
+		<name>Room #726</name>
+		<value>6</value>
+	</room>
+	<room>
+		<name>Room #727</name>
+		<value>8</value>
+	</room>
+	<room>
+		<name>Room #728</name>
+		<value>11</value>
+	</room>
+	<room>
+		<name>Room #729</name>
+		<value>12</value>
+	</room>
+	<room>
+		<name>Room #730</name>
+		<value>14</value>
+	</room>
+	<room>
+		<name>Room #731</name>
+		<value>19</value>
+	</room>
+	<room>
+		<name>Room #732</name>
+		<value>6</value>
+	</room>
+	<room>
+		<name>Room #733</name>
+		<value>14</value>
+	</room>
+	<room>
+		<name>Room #734</name>
+		<value>12</value>
+	</room>
+	<room>
+		<name>Room #735</name>
+		<value>8</value>
+	</room>
+	<room>
+		<name>Room #736</name>
+		<value>9</value>
+	</room>
+	<room>
+		<name>Room #737</name>
+		<value>13</value>
+	</room>
+	<room>
+		<name>Room #738</name>
+		<value>12</value>
+	</room>
+	<room>
+		<name>Room #739</name>
+		<value>9</value>
+	</room>
+	<room>
+		<name>Room #740</name>
+		<value>14</value>
+	</room>
+	<room>
+		<name>Room #741</name>
+		<value>13</value>
+	</room>
+	<room>
+		<name>Room #742</name>
+		<value>10</value>
+	</room>
+	<room>
+		<name>Room #743</name>
+		<value>12</value>
+	</room>
+	<room>
+		<name>Room #744</name>
+		<value>6</value>
+	</room>
+	<room>
+		<name>Room #745</name>
+		<value>9</value>
+	</room>
+	<room>
+		<name>Room #746</name>
+		<value>9</value>
+	</room>
+	<room>
+		<name>Room #747</name>
+		<value>13</value>
+	</room>
+	<room>
+		<name>Room #748</name>
+		<value>9</value>
+	</room>
+	<room>
+		<name>Room #749</name>
+		<value>13</value>
+	</room>
+	<room>
+		<name>Room #750</name>
+		<value>11</value>
+	</room>
+	<room>
+		<name>Room #751</name>
+		<value>12</value>
+	</room>
+	<room>
+		<name>Room #752</name>
+		<value>12</value>
+	</room>
+	<room>
+		<name>Room #753</name>
+		<value>8</value>
+	</room>
+	<room>
+		<name>Room #754</name>
+		<value>5</value>
+	</room>
+	<room>
+		<name>Room #755</name>
+		<value>12</value>
+	</room>
+	<room>
+		<name>Room #756</name>
+		<value>12</value>
+	</room>
+	<room>
+		<name>Room #757</name>
+		<value>9</value>
+	</room>
+	<room>
+		<name>Room #758</name>
+		<value>13</value>
+	</room>
+	<room>
+		<name>Room #759</name>
+		<value>15</value>
+	</room>
+	<room>
+		<name>Room #760</name>
+		<value>8</value>
+	</room>
+	<room>
+		<name>Room #761</name>
+		<value>9</value>
+	</room>
+	<room>
+		<name>Room #762</name>
+		<value>11</value>
+	</room>
+	<room>
+		<name>Room #763</name>
+		<value>7</value>
+	</room>
+	<room>
+		<name>Room #764</name>
+		<value>9</value>
+	</room>
+	<room>
+		<name>Room #765</name>
+		<value>8</value>
+	</room>
+	<room>
+		<name>Room #766</name>
+		<value>15</value>
+	</room>
+	<room>
+		<name>Room #767</name>
+		<value>11</value>
+	</room>
+	<room>
+		<name>Room #768</name>
+		<value>11</value>
+	</room>
+	<room>
+		<name>Room #769</name>
+		<value>10</value>
+	</room>
+	<room>
+		<name>Room #770</name>
+		<value>9</value>
+	</room>
+	<room>
+		<name>Room #771</name>
+		<value>14</value>
+	</room>
+	<room>
+		<name>Room #772</name>
+		<value>5</value>
+	</room>
+	<room>
+		<name>Room #773</name>
+		<value>11</value>
+	</room>
+	<room>
+		<name>Room #774</name>
+		<value>8</value>
+	</room>
+	<room>
+		<name>Room #775</name>
+		<value>9</value>
+	</room>
+	<room>
+		<name>Room #776</name>
+		<value>7</value>
+	</room>
+	<room>
+		<name>Room #777</name>
+		<value>5</value>
+	</room>
+	<room>
+		<name>Room #778</name>
+		<value>13</value>
+	</room>
+	<room>
+		<name>Room #779</name>
+		<value>13</value>
+	</room>
+	<room>
+		<name>Room #780</name>
+		<value>9</value>
+	</room>
+	<room>
+		<name>Room #781</name>
+		<value>13</value>
+	</room>
+	<room>
+		<name>Room #782</name>
+		<value>8</value>
+	</room>
+	<room>
+		<name>Room #783</name>
+		<value>8</value>
+	</room>
+	<room>
+		<name>Room #784</name>
+		<value>12</value>
+	</room>
+	<room>
+		<name>Room #785</name>
+		<value>10</value>
+	</room>
+	<room>
+		<name>Room #786</name>
+		<value>12</value>
+	</room>
+	<room>
+		<name>Room #787</name>
+		<value>8</value>
+	</room>
+	<room>
+		<name>Room #788</name>
+		<value>5</value>
+	</room>
+	<room>
+		<name>Room #789</name>
+		<value>10</value>
+	</room>
+	<room>
+		<name>Room #790</name>
+		<value>8</value>
+	</room>
+	<room>
+		<name>Room #791</name>
+		<value>10</value>
+	</room>
+	<room>
+		<name>Room #792</name>
+		<value>7</value>
+	</room>
+	<room>
+		<name>Room #793</name>
+		<value>15</value>
+	</room>
+	<room>
+		<name>Room #794</name>
+		<value>5</value>
+	</room>
+	<room>
+		<name>Room #795</name>
+		<value>12</value>
+	</room>
+	<room>
+		<name>Room #796</name>
+		<value>8</value>
+	</room>
+	<room>
+		<name>Room #797</name>
+		<value>11</value>
+	</room>
+	<room>
+		<name>Room #798</name>
+		<value>5</value>
+	</room>
+	<room>
+		<name>Room #799</name>
+		<value>13</value>
+	</room>
+	<room>
+		<name>Room #800</name>
+		<value>5</value>
+	</room>
+	<room>
+		<name>Room #801</name>
+		<value>10</value>
+	</room>
+	<room>
+		<name>Room #802</name>
+		<value>12</value>
+	</room>
+	<room>
+		<name>Room #803</name>
+		<value>11</value>
+	</room>
+	<room>
+		<name>Room #804</name>
+		<value>6</value>
+	</room>
+	<room>
+		<name>Room #805</name>
+		<value>10</value>
+	</room>
+	<room>
+		<name>Room #806</name>
+		<value>12</value>
+	</room>
+	<room>
+		<name>Room #807</name>
+		<value>9</value>
+	</room>
+	<room>
+		<name>Room #808</name>
+		<value>11</value>
+	</room>
+	<room>
+		<name>Room #809</name>
+		<value>13</value>
+	</room>
+	<room>
+		<name>Room #810</name>
+		<value>2</value>
+	</room>
+	<room>
+		<name>Room #811</name>
+		<value>5</value>
+	</room>
+	<room>
+		<name>Room #812</name>
+		<value>7</value>
+	</room>
+	<room>
+		<name>Room #813</name>
+		<value>20</value>
+	</room>
+	<room>
+		<name>Room #814</name>
+		<value>10</value>
+	</room>
+	<room>
+		<name>Room #815</name>
+		<value>9</value>
+	</room>
+	<room>
+		<name>Room #816</name>
+		<value>10</value>
+	</room>
+	<room>
+		<name>Room #817</name>
+		<value>12</value>
+	</room>
+	<room>
+		<name>Room #818</name>
+		<value>12</value>
+	</room>
+	<room>
+		<name>Room #819</name>
+		<value>9</value>
+	</room>
+	<room>
+		<name>Room #820</name>
+		<value>13</value>
+	</room>
+	<room>
+		<name>Room #821</name>
+		<value>11</value>
+	</room>
+	<room>
+		<name>Room #822</name>
+		<value>10</value>
+	</room>
+	<room>
+		<name>Room #823</name>
+		<value>7</value>
+	</room>
+	<room>
+		<name>Room #824</name>
+		<value>9</value>
+	</room>
+	<room>
+		<name>Room #825</name>
+		<value>11</value>
+	</room>
+	<room>
+		<name>Room #826</name>
+		<value>9</value>
+	</room>
+	<room>
+		<name>Room #827</name>
+		<value>7</value>
+	</room>
+	<room>
+		<name>Room #828</name>
+		<value>10</value>
+	</room>
+	<room>
+		<name>Room #829</name>
+		<value>12</value>
+	</room>
+	<room>
+		<name>Room #830</name>
+		<value>8</value>
+	</room>
+	<room>
+		<name>Room #831</name>
+		<value>6</value>
+	</room>
+	<room>
+		<name>Room #832</name>
+		<value>14</value>
+	</room>
+	<room>
+		<name>Room #833</name>
+		<value>9</value>
+	</room>
+	<room>
+		<name>Room #834</name>
+		<value>10</value>
+	</room>
+	<room>
+		<name>Room #835</name>
+		<value>16</value>
+	</room>
+	<room>
+		<name>Room #836</name>
+		<value>14</value>
+	</room>
+	<room>
+		<name>Room #837</name>
+		<value>11</value>
+	</room>
+	<room>
+		<name>Room #838</name>
+		<value>14</value>
+	</room>
+	<room>
+		<name>Room #839</name>
+		<value>9</value>
+	</room>
+	<room>
+		<name>Room #840</name>
+		<value>8</value>
+	</room>
+	<room>
+		<name>Room #841</name>
+		<value>6</value>
+	</room>
+	<room>
+		<name>Room #842</name>
+		<value>6</value>
+	</room>
+	<room>
+		<name>Room #843</name>
+		<value>12</value>
+	</room>
+	<room>
+		<name>Room #844</name>
+		<value>11</value>
+	</room>
+	<room>
+		<name>Room #845</name>
+		<value>11</value>
+	</room>
+	<room>
+		<name>Room #846</name>
+		<value>11</value>
+	</room>
+	<room>
+		<name>Room #847</name>
+		<value>16</value>
+	</room>
+	<room>
+		<name>Room #848</name>
+		<value>14</value>
+	</room>
+	<room>
+		<name>Room #849</name>
+		<value>9</value>
+	</room>
+	<room>
+		<name>Room #850</name>
+		<value>12</value>
+	</room>
+	<room>
+		<name>Room #851</name>
+		<value>6</value>
+	</room>
+	<room>
+		<name>Room #852</name>
+		<value>10</value>
+	</room>
+	<room>
+		<name>Room #853</name>
+		<value>8</value>
+	</room>
+	<room>
+		<name>Room #854</name>
+		<value>13</value>
+	</room>
+	<room>
+		<name>Room #855</name>
+		<value>12</value>
+	</room>
+	<room>
+		<name>Room #856</name>
+		<value>10</value>
+	</room>
+	<room>
+		<name>Room #857</name>
+		<value>6</value>
+	</room>
+	<room>
+		<name>Room #858</name>
+		<value>9</value>
+	</room>
+	<room>
+		<name>Room #859</name>
+		<value>9</value>
+	</room>
+	<room>
+		<name>Room #860</name>
+		<value>19</value>
+	</room>
+	<room>
+		<name>Room #861</name>
+		<value>9</value>
+	</room>
+	<room>
+		<name>Room #862</name>
+		<value>6</value>
+	</room>
+	<room>
+		<name>Room #863</name>
+		<value>15</value>
+	</room>
+	<room>
+		<name>Room #864</name>
+		<value>6</value>
+	</room>
+	<room>
+		<name>Room #865</name>
+		<value>12</value>
+	</room>
+	<room>
+		<name>Room #866</name>
+		<value>12</value>
+	</room>
+	<room>
+		<name>Room #867</name>
+		<value>11</value>
+	</room>
+	<room>
+		<name>Room #868</name>
+		<value>9</value>
+	</room>
+	<room>
+		<name>Room #869</name>
+		<value>9</value>
+	</room>
+	<room>
+		<name>Room #870</name>
+		<value>6</value>
+	</room>
+	<room>
+		<name>Room #871</name>
+		<value>10</value>
+	</room>
+	<room>
+		<name>Room #872</name>
+		<value>13</value>
+	</room>
+	<room>
+		<name>Room #873</name>
+		<value>4</value>
+	</room>
+	<room>
+		<name>Room #874</name>
+		<value>6</value>
+	</room>
+	<room>
+		<name>Room #875</name>
+		<value>14</value>
+	</room>
+	<room>
+		<name>Room #876</name>
+		<value>6</value>
+	</room>
+	<room>
+		<name>Room #877</name>
+		<value>11</value>
+	</room>
+	<room>
+		<name>Room #878</name>
+		<value>11</value>
+	</room>
+	<room>
+		<name>Room #879</name>
+		<value>15</value>
+	</room>
+	<room>
+		<name>Room #880</name>
+		<value>9</value>
+	</room>
+	<room>
+		<name>Room #881</name>
+		<value>11</value>
+	</room>
+	<room>
+		<name>Room #882</name>
+		<value>7</value>
+	</room>
+	<room>
+		<name>Room #883</name>
+		<value>9</value>
+	</room>
+	<room>
+		<name>Room #884</name>
+		<value>14</value>
+	</room>
+	<room>
+		<name>Room #885</name>
+		<value>7</value>
+	</room>
+	<room>
+		<name>Room #886</name>
+		<value>6</value>
+	</room>
+	<room>
+		<name>Room #887</name>
+		<value>7</value>
+	</room>
+	<room>
+		<name>Room #888</name>
+		<value>11</value>
+	</room>
+	<room>
+		<name>Room #889</name>
+		<value>8</value>
+	</room>
+	<room>
+		<name>Room #890</name>
+		<value>8</value>
+	</room>
+	<room>
+		<name>Room #891</name>
+		<value>11</value>
+	</room>
+	<room>
+		<name>Room #892</name>
+		<value>10</value>
+	</room>
+	<room>
+		<name>Room #893</name>
+		<value>13</value>
+	</room>
+	<room>
+		<name>Room #894</name>
+		<value>17</value>
+	</room>
+	<room>
+		<name>Room #895</name>
+		<value>6</value>
+	</room>
+	<room>
+		<name>Room #896</name>
+		<value>8</value>
+	</room>
+	<room>
+		<name>Room #897</name>
+		<value>9</value>
+	</room>
+	<room>
+		<name>Room #898</name>
+		<value>12</value>
+	</room>
+	<room>
+		<name>Room #899</name>
+		<value>10</value>
+	</room>
+	<room>
+		<name>Room #900</name>
+		<value>11</value>
+	</room>
+	<room>
+		<name>Room #901</name>
+		<value>8</value>
+	</room>
+	<room>
+		<name>Room #902</name>
+		<value>5</value>
+	</room>
+	<room>
+		<name>Room #903</name>
+		<value>11</value>
+	</room>
+	<room>
+		<name>Room #904</name>
+		<value>8</value>
+	</room>
+	<room>
+		<name>Room #905</name>
+		<value>19</value>
+	</room>
+	<room>
+		<name>Room #906</name>
+		<value>10</value>
+	</room>
+	<room>
+		<name>Room #907</name>
+		<value>12</value>
+	</room>
+	<room>
+		<name>Room #908</name>
+		<value>7</value>
+	</room>
+	<room>
+		<name>Room #909</name>
+		<value>12</value>
+	</room>
+	<room>
+		<name>Room #910</name>
+		<value>10</value>
+	</room>
+	<room>
+		<name>Room #911</name>
+		<value>10</value>
+	</room>
+	<room>
+		<name>Room #912</name>
+		<value>13</value>
+	</room>
+	<room>
+		<name>Room #913</name>
+		<value>3</value>
+	</room>
+	<room>
+		<name>Room #914</name>
+		<value>13</value>
+	</room>
+	<room>
+		<name>Room #915</name>
+		<value>5</value>
+	</room>
+	<room>
+		<name>Room #916</name>
+		<value>8</value>
+	</room>
+	<room>
+		<name>Room #917</name>
+		<value>9</value>
+	</room>
+	<room>
+		<name>Room #918</name>
+		<value>14</value>
+	</room>
+	<room>
+		<name>Room #919</name>
+		<value>5</value>
+	</room>
+	<room>
+		<name>Room #920</name>
+		<value>8</value>
+	</room>
+	<room>
+		<name>Room #921</name>
+		<value>10</value>
+	</room>
+	<room>
+		<name>Room #922</name>
+		<value>10</value>
+	</room>
+	<room>
+		<name>Room #923</name>
+		<value>9</value>
+	</room>
+	<room>
+		<name>Room #924</name>
+		<value>12</value>
+	</room>
+	<room>
+		<name>Room #925</name>
+		<value>8</value>
+	</room>
+	<room>
+		<name>Room #926</name>
+		<value>14</value>
+	</room>
+	<room>
+		<name>Room #927</name>
+		<value>9</value>
+	</room>
+	<room>
+		<name>Room #928</name>
+		<value>8</value>
+	</room>
+	<room>
+		<name>Room #929</name>
+		<value>9</value>
+	</room>
+	<room>
+		<name>Room #930</name>
+		<value>15</value>
+	</room>
+	<room>
+		<name>Room #931</name>
+		<value>7</value>
+	</room>
+	<room>
+		<name>Room #932</name>
+		<value>9</value>
+	</room>
+	<room>
+		<name>Room #933</name>
+		<value>10</value>
+	</room>
+	<room>
+		<name>Room #934</name>
+		<value>4</value>
+	</room>
+	<room>
+		<name>Room #935</name>
+		<value>10</value>
+	</room>
+	<room>
+		<name>Room #936</name>
+		<value>13</value>
+	</room>
+	<room>
+		<name>Room #937</name>
+		<value>11</value>
+	</room>
+	<room>
+		<name>Room #938</name>
+		<value>12</value>
+	</room>
+	<room>
+		<name>Room #939</name>
+		<value>9</value>
+	</room>
+	<room>
+		<name>Room #940</name>
+		<value>7</value>
+	</room>
+	<room>
+		<name>Room #941</name>
+		<value>11</value>
+	</room>
+	<room>
+		<name>Room #942</name>
+		<value>11</value>
+	</room>
+	<room>
+		<name>Room #943</name>
+		<value>5</value>
+	</room>
+	<room>
+		<name>Room #944</name>
+		<value>8</value>
+	</room>
+	<room>
+		<name>Room #945</name>
+		<value>10</value>
+	</room>
+	<room>
+		<name>Room #946</name>
+		<value>11</value>
+	</room>
+	<room>
+		<name>Room #947</name>
+		<value>8</value>
+	</room>
+	<room>
+		<name>Room #948</name>
+		<value>13</value>
+	</room>
+	<room>
+		<name>Room #949</name>
+		<value>10</value>
+	</room>
+	<room>
+		<name>Room #950</name>
+		<value>12</value>
+	</room>
+	<room>
+		<name>Room #951</name>
+		<value>8</value>
+	</room>
+	<room>
+		<name>Room #952</name>
+		<value>13</value>
+	</room>
+	<room>
+		<name>Room #953</name>
+		<value>11</value>
+	</room>
+	<room>
+		<name>Room #954</name>
+		<value>7</value>
+	</room>
+	<room>
+		<name>Room #955</name>
+		<value>13</value>
+	</room>
+	<room>
+		<name>Room #956</name>
+		<value>6</value>
+	</room>
+	<room>
+		<name>Room #957</name>
+		<value>9</value>
+	</room>
+	<room>
+		<name>Room #958</name>
+		<value>14</value>
+	</room>
+	<room>
+		<name>Room #959</name>
+		<value>8</value>
+	</room>
+	<room>
+		<name>Room #960</name>
+		<value>8</value>
+	</room>
+	<room>
+		<name>Room #961</name>
+		<value>17</value>
+	</room>
+	<room>
+		<name>Room #962</name>
+		<value>9</value>
+	</room>
+	<room>
+		<name>Room #963</name>
+		<value>6</value>
+	</room>
+	<room>
+		<name>Room #964</name>
+		<value>5</value>
+	</room>
+	<room>
+		<name>Room #965</name>
+		<value>15</value>
+	</room>
+	<room>
+		<name>Room #966</name>
+		<value>11</value>
+	</room>
+	<room>
+		<name>Room #967</name>
+		<value>11</value>
+	</room>
+	<room>
+		<name>Room #968</name>
+		<value>17</value>
+	</room>
+	<room>
+		<name>Room #969</name>
+		<value>16</value>
+	</room>
+	<room>
+		<name>Room #970</name>
+		<value>6</value>
+	</room>
+	<room>
+		<name>Room #971</name>
+		<value>9</value>
+	</room>
+	<room>
+		<name>Room #972</name>
+		<value>4</value>
+	</room>
+	<room>
+		<name>Room #973</name>
+		<value>9</value>
+	</room>
+	<room>
+		<name>Room #974</name>
+		<value>8</value>
+	</room>
+	<room>
+		<name>Room #975</name>
+		<value>9</value>
+	</room>
+	<room>
+		<name>Room #976</name>
+		<value>7</value>
+	</room>
+	<room>
+		<name>Room #977</name>
+		<value>10</value>
+	</room>
+	<room>
+		<name>Room #978</name>
+		<value>12</value>
+	</room>
+	<room>
+		<name>Room #979</name>
+		<value>10</value>
+	</room>
+	<room>
+		<name>Room #980</name>
+		<value>14</value>
+	</room>
+	<room>
+		<name>Room #981</name>
+		<value>12</value>
+	</room>
+	<room>
+		<name>Room #982</name>
+		<value>8</value>
+	</room>
+	<room>
+		<name>Room #983</name>
+		<value>6</value>
+	</room>
+	<room>
+		<name>Room #984</name>
+		<value>13</value>
+	</room>
+	<room>
+		<name>Room #985</name>
+		<value>3</value>
+	</room>
+	<room>
+		<name>Room #986</name>
+		<value>13</value>
+	</room>
+	<room>
+		<name>Room #987</name>
+		<value>7</value>
+	</room>
+	<room>
+		<name>Room #988</name>
+		<value>10</value>
+	</room>
+	<room>
+		<name>Room #989</name>
+		<value>10</value>
+	</room>
+	<room>
+		<name>Room #990</name>
+		<value>5</value>
+	</room>
+	<room>
+		<name>Room #991</name>
+		<value>9</value>
+	</room>
+	<room>
+		<name>Room #992</name>
+		<value>13</value>
+	</room>
+	<room>
+		<name>Room #993</name>
+		<value>10</value>
+	</room>
+	<room>
+		<name>Room #994</name>
+		<value>6</value>
+	</room>
+	<room>
+		<name>Room #995</name>
+		<value>13</value>
+	</room>
+	<room>
+		<name>Room #996</name>
+		<value>8</value>
+	</room>
+	<room>
+		<name>Room #997</name>
+		<value>9</value>
+	</room>
+	<room>
+		<name>Room #998</name>
+		<value>14</value>
+	</room>
+	<room>
+		<name>Room #999</name>
+		<value>12</value>
+	</room>
+</root>
