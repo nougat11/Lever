@@ -62,3 +62,10 @@ inner join students on rooms.id = students.room
 group by rooms.id
 having count(distinct students.sex)=2;
 """
+index_sex='''
+ALTER TABLE students ADD INDEX(sex)
+'''
+index_birthday='''
+ALTER TABLE students ADD INDEX(birthday)
+'''
+

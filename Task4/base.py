@@ -20,6 +20,11 @@ class BaseWorker:
             cursor.execute(queries.create_students)
         self.connection.commit()
 
+    def create_indexes(self):
+        with self.connection.cursor() as cursor:
+            cursor.execute(queries.index_sex)
+            cursor.execute(queries.index_birthday)
+
     def insert_tables(self, rooms, students):
         with self.connection.cursor() as cursor:
             cursor.execute(queries.clear_rooms)

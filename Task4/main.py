@@ -40,7 +40,7 @@ if __name__ == "__main__":
         hostel[student["room"]]["students"].append(student["name"])
     id, hostel = zip(*hostel.items())
     file_writer = format_classes[args.format]
-
+    db.create_indexes()
     count_students_in_the_room = db.query_exectutor(queries.count_students_in_the_room, True)
 
     file_writer.write(count_students_in_the_room, "count_students_in_the_room")
